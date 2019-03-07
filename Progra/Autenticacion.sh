@@ -1,3 +1,2 @@
-#!/bin
-#TErMINAR
-
+#!/bin/bash 
+PASSWORD=
